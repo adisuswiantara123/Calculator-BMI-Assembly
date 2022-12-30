@@ -6,9 +6,9 @@
   MSC DB ' """Silahkan Masukkan Data Anda"""$'
   MSD DB ' Masukkan Tinggi Badan Anda dalam cm:$'
   MSE DB ' Masukkan Berat Badan Anda dalam kg:$'
-  MSF DB ' "Berat Badan Anda:Tidak Ideal"$'
+  MSF DB ' "Berat Badan Anda:Kelebihan Berat Badan"$'
   MSG DB ' "Berat Badan Anda:Ideal"$'
-  MSH DB ' "Berat Badan Anda:Tidak Ideal"$'
+  MSH DB ' "Berat Badan Anda:Kurus"$'
   MSI DB ' "Tekan 1 untuk melihat petunjuk menambah berat badan ideal jika berat badan Anda kurang "$'
   MSJ DB ' "Tekan 2 untuk melihat petunjuk mengurangi berat badan  jika Anda kelebihan berat badan " $'
   
